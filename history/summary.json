@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/rfh-koeln.sciebo.de",
     "slug": "rfh-status",
     "status": "down",
-    "uptime": "4.65%",
-    "uptimeDay": "4.65%",
-    "uptimeWeek": "4.65%",
-    "uptimeMonth": "4.65%",
-    "uptimeYear": "4.65%",
-    "time": 801,
-    "timeDay": 801,
-    "timeWeek": 801,
-    "timeMonth": 801,
-    "timeYear": 801,
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 605,
+    "timeDay": 605,
+    "timeWeek": 605,
+    "timeMonth": 605,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2021-07-03": 0
+      "2021-07-03": 5
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/uni-koeln.sciebo.de",
     "slug": "uni-koeln-status",
     "status": "down",
-    "uptime": "9.05%",
-    "uptimeDay": "9.05%",
-    "uptimeWeek": "9.05%",
-    "uptimeMonth": "9.05%",
-    "uptimeYear": "9.05%",
-    "time": 652,
-    "timeDay": 652,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2021-07-03": 0
+      "2021-07-03": 5
     }
   }
 ]
